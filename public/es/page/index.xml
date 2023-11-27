@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Bold Rocks 3</title>
+    <link>https://boldrocks3.com/es/page/</link>
+    <description>Recent content in Pages on Bold Rocks 3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://boldrocks3.com/es/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>https://boldrocks3.com/es/page/contact/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://boldrocks3.com/es/page/contact/</guid>
+      <description>Contáctenos para ayudarle con las necesidades de su negocio.
+Email: info@boldrocks3.com Teléfono: (979) 693-9393</description>
+    </item>
+    <item>
+      <title>Sobre Nosotros</title>
+      <link>https://boldrocks3.com/es/page/about/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://boldrocks3.com/es/page/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
